@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sign_poc/static/css/main.10b21b48.css",
+    "main.js": "/sign_poc/static/js/main.0a92b5e2.js",
+    "static/js/787.6ce01d19.chunk.js": "/sign_poc/static/js/787.6ce01d19.chunk.js",
+    "static/media/German.png": "/sign_poc/static/media/German.ad741df0f9eb7a1266a3.png",
+    "static/media/Spanish.png": "/sign_poc/static/media/Spanish.2896e3687d09efaf4e06.png",
+    "static/media/Korean.png": "/sign_poc/static/media/Korean.4eb1341a12cfbbffb17e.png",
+    "static/media/French.png": "/sign_poc/static/media/French.7def2f234a5c0e19f261.png",
+    "static/media/Mandarin.png": "/sign_poc/static/media/Mandarin.f1572e11e90270a81a8d.png",
+    "static/media/English.jpg": "/sign_poc/static/media/English.742d45fcc6c2cd915620.jpg",
+    "static/media/German_Male.mp3": "/sign_poc/static/media/German_Male.1f6d1adba0dd4e24d4fa.mp3",
+    "static/media/French_Male.mp3": "/sign_poc/static/media/French_Male.13b84103e8bca8a18b24.mp3",
+    "static/media/Chinese_Male.mp3": "/sign_poc/static/media/Chinese_Male.69df6621ade1af3adc08.mp3",
+    "static/media/Spanish_Male.mp3": "/sign_poc/static/media/Spanish_Male.e59e4cd4cfbb6030088b.mp3",
+    "static/media/Korean_Male.mp3": "/sign_poc/static/media/Korean_Male.70e76dcf32e226dc9162.mp3",
+    "static/media/logo.svg": "/sign_poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sign_poc/index.html",
+    "main.10b21b48.css.map": "/sign_poc/static/css/main.10b21b48.css.map",
+    "main.0a92b5e2.js.map": "/sign_poc/static/js/main.0a92b5e2.js.map",
+    "787.6ce01d19.chunk.js.map": "/sign_poc/static/js/787.6ce01d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b21b48.css",
+    "static/js/main.0a92b5e2.js"
+  ]
+}
